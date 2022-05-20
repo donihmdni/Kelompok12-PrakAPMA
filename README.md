@@ -1,2 +1,4 @@
 # praktikumAPMA-Kelompok12
-Praktikum 1 Mata Kuliah Aplikasi Pembelajaran Mesin Kelas A tentang Logistic Regression, Multiple Linear Regression, Simple Linear Regression
+Kelompok 12 - Kelas A Aplikasi Pembelajaran Mesin
+1. Elfijario D.Qalbi - 1911521021
+2. Doni Hamdani - 1911522015
